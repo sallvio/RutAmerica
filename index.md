@@ -1,6 +1,1 @@
----
-title: RutAmerica
-layout: default
----
-
-# ${title}$
+# RutAmerica
